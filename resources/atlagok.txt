@@ -1,0 +1,4 @@
+halozat: 66
+mobil: 75,48
+frontend: 72,12
+backend: 73,52
